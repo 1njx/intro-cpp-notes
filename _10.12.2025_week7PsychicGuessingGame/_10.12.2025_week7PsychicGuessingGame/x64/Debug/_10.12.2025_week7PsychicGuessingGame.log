@@ -1,0 +1,3 @@
+﻿  _10.12.2025_week7PsychicGuessingGame.cpp
+D:\cs\_10.12.2025_week7PsychicGuessingGame\_10.12.2025_week7PsychicGuessingGame\_10.12.2025_week7PsychicGuessingGame.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  _10.12.2025_week7PsychicGuessingGame.vcxproj -> D:\cs\_10.12.2025_week7PsychicGuessingGame\x64\Debug\_10.12.2025_week7PsychicGuessingGame.exe
