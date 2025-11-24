@@ -1,0 +1,4 @@
+﻿  _09.14.2025_week2IntroToVariables.cpp
+D:\cs\_09.14.2025_week2IntroToVariables\_09.14.2025_week2IntroToVariables\_09.14.2025_week2IntroToVariables.cpp(18,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cs\_09.14.2025_week2IntroToVariables\_09.14.2025_week2IntroToVariables\_09.14.2025_week2IntroToVariables.cpp(48,1): error C4716: 'hmmmmmm2': must return a value
+D:\cs\_09.14.2025_week2IntroToVariables\_09.14.2025_week2IntroToVariables\_09.14.2025_week2IntroToVariables.cpp(43,1): error C4700: uninitialized local variable 'x1' used
