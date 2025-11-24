@@ -1,0 +1,3 @@
+﻿  _11.23.2025_test3InsultChooser.cpp
+D:\cs\_11.23.2025_test3InsultChooser\_11.23.2025_test3InsultChooser\_11.23.2025_test3InsultChooser.cpp(41,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  _11.23.2025_test3InsultChooser.vcxproj -> D:\cs\_11.23.2025_test3InsultChooser\x64\Debug\_11.23.2025_test3InsultChooser.exe
