@@ -1,0 +1,3 @@
+﻿  _9.27.2025_week5RandomNumbers.cpp
+D:\cs\_9.27.2025_week5RandomNumbers\_9.27.2025_week5RandomNumbers\_9.27.2025_week5RandomNumbers.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  _9.27.2025_week5RandomNumbers.vcxproj -> D:\cs\_9.27.2025_week5RandomNumbers\x64\Debug\_9.27.2025_week5RandomNumbers.exe
