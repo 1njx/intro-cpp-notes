@@ -1,0 +1,3 @@
+﻿  _10.19.2025_week8NumberWars.cpp
+D:\cs\_10.19.2025_week8NumberWars\_10.19.2025_week8NumberWars\_10.19.2025_week8NumberWars.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  _10.19.2025_week8NumberWars.vcxproj -> D:\cs\_10.19.2025_week8NumberWars\x64\Debug\_10.19.2025_week8NumberWars.exe

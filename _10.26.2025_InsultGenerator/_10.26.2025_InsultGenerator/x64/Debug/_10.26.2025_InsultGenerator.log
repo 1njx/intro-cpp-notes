@@ -1,0 +1,3 @@
+﻿  _10.26.2025_InsultGenerator.cpp
+D:\cs\_10.26.2025_InsultGenerator\_10.26.2025_InsultGenerator\_10.26.2025_InsultGenerator.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  _10.26.2025_InsultGenerator.vcxproj -> D:\cs\_10.26.2025_InsultGenerator\x64\Debug\_10.26.2025_InsultGenerator.exe
